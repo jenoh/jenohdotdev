@@ -1,0 +1,18 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: jenohdotdev
+theme: papermod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there 👨‍💻"
+    Content: |
+      I'm Théo Mémin aka jenoH, a junior software engineer eager to learn and grow. 
+
+      Creator of chaotic scala code at Clever Cloud.
+  socialIcons:
+    - name: github
+      url: 'https://github.com/jenoh'
+    - name: twitter
+      url: 'https://twitter.com/jen0h_'
